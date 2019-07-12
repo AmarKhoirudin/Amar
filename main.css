@@ -16,4 +16,10 @@
     align-items: center;
     margin: 10px;
 }
+.avatar {
+    height: 100px;
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 50px;
+    align-items: center;
 }
