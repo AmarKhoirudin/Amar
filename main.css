@@ -1,0 +1,19 @@
+.header {
+    background: blue;
+    color: aqua;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second-header {
+    background: rgb(236, 3, 3);
+    color: rebeccapurple;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+}
